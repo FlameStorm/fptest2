@@ -6,5 +6,9 @@
         "files": [
             "functions.php"
         ]
-    }
+    },
+  "require": {
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
 }
